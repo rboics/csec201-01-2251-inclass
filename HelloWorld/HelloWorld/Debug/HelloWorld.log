@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  HelloWorldDemo.c
+D:\csec201-2251-01\HelloWorld\HelloWorld\HelloWorldDemo.c(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\csec201-2251-01\HelloWorld\HelloWorld\HelloWorldDemo.c(29,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HelloWorld.vcxproj -> D:\csec201-2251-01\HelloWorld\Debug\HelloWorld.exe
