@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  Hello.c
+D:\csec201-2251-01\PrototypeDemo\PrototypeDemo\Hello.c(8,6): error C2084: function 'void SayHello(void)' already has a body
+D:\csec201-2251-01\PrototypeDemo\PrototypeDemo\Hello.c(4,6): message : see previous definition of 'SayHello'
