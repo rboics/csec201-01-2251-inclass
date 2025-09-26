@@ -1,0 +1,5 @@
+﻿  Hello.c
+  source.c
+D:\csec201-2251-01\PrototypeDemo\PrototypeDemo\source.c(4,2): warning C4013: 'SayHello' undefined; assuming extern returning int
+  Generating Code...
+  PrototypeDemo.vcxproj -> D:\csec201-2251-01\PrototypeDemo\x64\Debug\PrototypeDemo.exe
