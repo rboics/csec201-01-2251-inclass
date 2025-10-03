@@ -1,1 +1,2 @@
-Source code for CSEC 201, 2pm, Fall 2025
+Source code for CSEC 201, 2pm, Fall 2025.
+
