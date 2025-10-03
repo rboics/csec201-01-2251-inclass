@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\csec201-2251-01\UsesDLL\UsesDLL\Source.c(41,14): warning C4113: 'FARPROC' differs in parameter lists from 'double_it'
+  UsesDLL.vcxproj -> D:\csec201-2251-01\UsesDLL\Debug\UsesDLL.exe
