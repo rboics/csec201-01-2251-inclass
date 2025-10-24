@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\UsesDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95378BAF-1EFB-45FF-BD10-D3E78739F04B}|UsesDLL\\UsesDLL.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\UsesDLL\\UsesDLL\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95378BAF-1EFB-45FF-BD10-D3E78739F04B}|UsesDLL\\UsesDLL.vcxproj|solutionrelative:UsesDLL\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\UsesDLL\\UsesDLL\\source.c",
+              "RelativeDocumentMoniker": "UsesDLL\\source.c",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\UsesDLL\\UsesDLL\\source.c*",
+              "RelativeToolTip": "UsesDLL\\source.c*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-02T18:27:53.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
