@@ -2,11 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-<<<<<<< HEAD
       <FullPath>C:\Users\rboics\csec201-public\csec201-01-2251-inclass\UsesDLL\Debug\UsesDLL.exe</FullPath>
-=======
-      <FullPath>D:\csec201-2251-01\UsesDLL\Debug\UsesDLL.exe</FullPath>
->>>>>>> 72cb92e005cc2e05b26a81988b0f08134e6c4ac7
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
