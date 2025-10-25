@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ﻿  LINK : C:\Users\rboics\csec201-public\csec201-01-2251-inclass\UsesDLL\Debug\UsesDLL.exe not found or not built by the last incremental link; performing full link
   UsesDLL.vcxproj -> C:\Users\rboics\csec201-public\csec201-01-2251-inclass\UsesDLL\Debug\UsesDLL.exe
+=======
+﻿  Source.c
+D:\csec201-2251-01\UsesDLL\UsesDLL\Source.c(41,14): warning C4113: 'FARPROC' differs in parameter lists from 'double_it'
+  UsesDLL.vcxproj -> D:\csec201-2251-01\UsesDLL\Debug\UsesDLL.exe
+>>>>>>> 72cb92e005cc2e05b26a81988b0f08134e6c4ac7

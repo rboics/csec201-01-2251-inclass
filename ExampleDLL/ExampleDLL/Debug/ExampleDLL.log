@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿  pch.cpp
   dllmain.cpp
      Creating library C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\Debug\ExampleDLL.lib and object C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\Debug\ExampleDLL.exp
   ExampleDLL.vcxproj -> C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\Debug\ExampleDLL.dll
+=======
+﻿  dllmain.cpp
+     Creating library D:\csec201-2251-01\ExampleDLL\Debug\ExampleDLL.lib and object D:\csec201-2251-01\ExampleDLL\Debug\ExampleDLL.exp
+  ExampleDLL.vcxproj -> D:\csec201-2251-01\ExampleDLL\Debug\ExampleDLL.dll
+>>>>>>> 72cb92e005cc2e05b26a81988b0f08134e6c4ac7

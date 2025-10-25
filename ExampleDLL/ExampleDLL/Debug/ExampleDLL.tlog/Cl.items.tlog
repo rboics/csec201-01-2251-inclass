@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\ExampleDLL\dllmain.cpp;C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\ExampleDLL\Debug\dllmain.obj
 C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\ExampleDLL\pch.cpp;C:\Users\rboics\csec201-public\csec201-01-2251-inclass\ExampleDLL\ExampleDLL\Debug\pch.obj
+=======
+D:\csec201-2251-01\ExampleDLL\ExampleDLL\dllmain.cpp;D:\csec201-2251-01\ExampleDLL\ExampleDLL\Debug\dllmain.obj
+D:\csec201-2251-01\ExampleDLL\ExampleDLL\pch.cpp;D:\csec201-2251-01\ExampleDLL\ExampleDLL\Debug\pch.obj
+>>>>>>> 72cb92e005cc2e05b26a81988b0f08134e6c4ac7
