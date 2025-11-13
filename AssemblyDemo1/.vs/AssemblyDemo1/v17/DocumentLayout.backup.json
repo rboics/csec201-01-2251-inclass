@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\AssemblyDemo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5747778-3E4A-456F-9C69-6EA2B7F7C99D}|AssemblyDemo1\\AssemblyDemo1.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\AssemblyDemo1\\AssemblyDemo1\\Source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5747778-3E4A-456F-9C69-6EA2B7F7C99D}|AssemblyDemo1\\AssemblyDemo1.vcxproj|solutionrelative:AssemblyDemo1\\Source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.asm",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\AssemblyDemo1\\AssemblyDemo1\\Source.asm",
+              "RelativeDocumentMoniker": "AssemblyDemo1\\Source.asm",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\AssemblyDemo1\\AssemblyDemo1\\Source.asm",
+              "RelativeToolTip": "AssemblyDemo1\\Source.asm",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-06T19:47:17.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

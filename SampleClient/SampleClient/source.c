@@ -27,7 +27,9 @@ int main(void) {
 	srvaddr.sin_family = AF_INET;
 	srvaddr.sin_port = htons(serverPort);
 	srvaddr.sin_addr.s_addr = inet_addr(serverIP);
+	system("pause");
 	connect(clientSocket, &srvaddr, sizeof(srvaddr));
+	system("pause");
 	while (1) {
 		printf("Enter a message to send across the network: ");
 		scanf("%s", userInput);

@@ -61,17 +61,17 @@ int main(void) {
 	// And an address that tells the os to use IPv4 on port 8421 and to listen on all interfaces
 	
 	system("pause");
-	printf("Calling Bind");
+	printf("Calling Bind\n");
 	bind(serverSocket, (struct sockaddr*)&serverAddress, sizeof(serverAddress));
 	system("pause");
 	//Listen for incomming connections, 2nd arg is the # of connections
-	printf("Calling Listen");
+	printf("Calling Listen\n");
 	listen(serverSocket, 5);
 	system("pause");
 	//Run forever
 	while (1) {
 		//system("pause");
-		//printf("Calling Accept");
+		printf("Calling Accept\n");
 		clientSocket = accept(serverSocket, &clientAddress, &addrLen);
 		//Application logic was here
 		threadnum++;
