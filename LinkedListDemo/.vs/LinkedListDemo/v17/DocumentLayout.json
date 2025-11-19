@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8157BC-116E-4027-93BC-17A86D34BBC7}|LinkedListDemo\\LinkedListDemo.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC8157BC-116E-4027-93BC-17A86D34BBC7}|LinkedListDemo\\LinkedListDemo.vcxproj|solutionrelative:LinkedListDemo\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8157BC-116E-4027-93BC-17A86D34BBC7}|LinkedListDemo\\LinkedListDemo.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\ll.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC8157BC-116E-4027-93BC-17A86D34BBC7}|LinkedListDemo\\LinkedListDemo.vcxproj|solutionrelative:LinkedListDemo\\ll.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8157BC-116E-4027-93BC-17A86D34BBC7}|LinkedListDemo\\LinkedListDemo.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC8157BC-116E-4027-93BC-17A86D34BBC7}|LinkedListDemo\\LinkedListDemo.vcxproj|solutionrelative:LinkedListDemo\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\Source.c",
+              "RelativeDocumentMoniker": "LinkedListDemo\\Source.c",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\Source.c",
+              "RelativeToolTip": "LinkedListDemo\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-13T18:08:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ll.h",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\ll.h",
+              "RelativeDocumentMoniker": "LinkedListDemo\\ll.h",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\ll.h",
+              "RelativeToolTip": "LinkedListDemo\\ll.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-13T15:33:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.c",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\list.c",
+              "RelativeDocumentMoniker": "LinkedListDemo\\list.c",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\LinkedListDemo\\LinkedListDemo\\list.c",
+              "RelativeToolTip": "LinkedListDemo\\list.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-13T15:33:18.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

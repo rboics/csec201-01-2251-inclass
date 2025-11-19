@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\Assembly-CFunctionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9EBF9D-5F45-42D5-B392-90D3AFD0F2B0}|Assembly-CFunctionDemo\\Assembly-CFunctionDemo.vcxproj|C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\Assembly-CFunctionDemo\\Assembly-CFunctionDemo\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C9EBF9D-5F45-42D5-B392-90D3AFD0F2B0}|Assembly-CFunctionDemo\\Assembly-CFunctionDemo.vcxproj|solutionrelative:Assembly-CFunctionDemo\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.asm",
+              "DocumentMoniker": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\Assembly-CFunctionDemo\\Assembly-CFunctionDemo\\source.asm",
+              "RelativeDocumentMoniker": "Assembly-CFunctionDemo\\source.asm",
+              "ToolTip": "C:\\Users\\rboics\\csec201-public\\csec201-01-2251-inclass\\Assembly-CFunctionDemo\\Assembly-CFunctionDemo\\source.asm*",
+              "RelativeToolTip": "Assembly-CFunctionDemo\\source.asm*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-18T19:45:15.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

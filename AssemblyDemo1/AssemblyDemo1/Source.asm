@@ -5,7 +5,7 @@
 .stack 2048				;Set the max stack size to be 1k
 
 ;Two libraries we'll commonly use functions from
-;include libcmt.lib
+includelib libcmt.lib
 ;include legacy_stdio_definitions.lib ;This gets printf/scanf
 
 ;Function prototype for ExitProcess, used to terminate the process
