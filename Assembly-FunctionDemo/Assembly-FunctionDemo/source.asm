@@ -34,8 +34,10 @@ ExitProcess PROTO, dwExitCode: DWORD
 						;ebp definitionally keeps track of where the stack frame
 						;begins
 
+
+
 		;passes in the input variable to AddOne
-		mov ebx, input
+;		mov ebx, input
 		push ebx
 
 		;calls AddOne
